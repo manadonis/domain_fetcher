@@ -1,0 +1,9 @@
+# robots.txt for Domain Intelligence Platform
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://domainintelligence.com/sitemap.xml
+
+# Crawl-delay for courtesy
+Crawl-delay: 1
